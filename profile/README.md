@@ -27,7 +27,7 @@
 ## [BackEnd Repo](#)
 | Back-End Team | 📚 Tech Stacks |
 |:--:|:--:|
-| Collaboration Tools|``Notion``|
+| Collaboration Tools|``P``|
 
 ## 1. 프로젝트 명
 

@@ -1,4 +1,5 @@
 > [2024-2 한림대학교 소프트웨어캡스톤디자인]
+![image](https://github.com/user-attachments/assets/a66fec23-bcfe-480c-abf2-5e0bd5836f15)
 
 
 

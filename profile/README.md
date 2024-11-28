@@ -4,88 +4,16 @@
 ### 🔗 배포 링크
 https://spread-puzzle.io/
 
-## 🥕Project : Puzzle Team : Spread
-|FE | FE | BE |
-| :---: | :---: | :---: |
-| 김태호 | 김대성 | 김선우 |
-|  <img width="130px" src="https://avatars.githubusercontent.com/u/126559845?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |
-| 한림대학교 | 한림대학교 | 한림대학교|
-| 빅데이터전공 3학년 | 콘텐츠IT전공 4학년 | 빅데이터 3학년|
-| [@low](https://github.com/ho8ae)|[@丸内大成](https://github.com/KimMaru10)|[@kimxxunu](https://github.com/Kimxxunu)|
-
-## Tech Stacks
-
-| Spread Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools|``React`` ``Zustand`` ``Axios``|
-
-## [FronteEnd Repo](#)
-
-| Front-End Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools| ``Notion``|
 
 
-## [BackEnd Repo](#)
-| Back-End Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools|``P``|
 
-# 🧩 Puzzle - 프로젝트 기획 및 협업 플랫폼
+## 🧩 Puzzle - 프로젝트 기획 및 협업 플랫폼
 ![퍼즐](https://github.com/user-attachments/assets/f530109b-fe9c-42cd-9c5b-8a45ff6b923b)
 
 
-# 🚀 프로젝트 소개
+## 🚀 프로젝트 소개
 Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선하는 협업 플랫폼입니다. 체계적인 가이드라인과 실시간 협업 도구를 통해 프로젝트 관리의 새로운 패러다임을 제시합니다.
 
-# 프로젝트 기획 의도
-
-### 1. **배경**
-현대의 교육 및 산업 환경에서 팀 프로젝트는 필수적인 학습 및 업무 방식으로 자리 잡았습니다. 특히, 대학교의 교육 과정과 스타트업 환경에서는 다양한 배경을 가진 구성원들이 협업하여 프로젝트를 수행하는 경우가 많습니다. 하지만, 이러한 프로젝트 경험이 부족한 경우 다음과 같은 문제들이 빈번하게 발생하고 있습니다:
-
-- **프로젝트 기획 단계의 비체계성**
-  - 명확한 목표가 설정되지 않아 프로젝트 방향이 혼란스러워짐.
-  - 체계적인 기획 방법론 부재로 인해 시간과 자원의 낭비.
-  - 요구사항 정의가 명확하지 않아 수정 및 재작업이 빈번.
-
-- **의사소통의 비효율성**
-  - 팀원 간 의견 교환 과정에서 오해와 갈등 발생.
-  - 복잡한 아이디어를 시각화하고 공유할 도구 부족.
-  - 비대면 환경에서 효과적인 소통이 어려움.
-
-- **문서화 및 기록의 부실**
-  - 회의 내용과 의사결정 사항이 체계적으로 기록되지 않음.
-  - 프로젝트 진행 과정을 추적하기 어려움.
-  - 결정 사항이 명확하게 전달되지 않아 혼선 발생.
-
----
-
-### 2. **필요성**
-위 문제들을 해결하기 위해서는 다음과 같은 시스템 및 도구가 필요합니다:
-
-1. **체계적인 프로젝트 기획 지원 시스템**
-   - 애자일, 브레인스토밍 등 상황에 맞는 프로젝트 방법론 제공.
-   - 단계별 가이드라인으로 프로젝트 기획을 체계적으로 지원.
-   - 명확한 목표 설정을 위한 구조화된 프레임워크 제공.
-
-2. **실시간 협업 도구**
-   - 동시 편집 가능한 시각적 캔버스 제공.
-   - 아이디어를 즉각적으로 공유하고 발전시키는 플랫폼.
-   - 비대면 환경에서도 효과적인 협업 지원.
-
-3. **효율적인 회의 보조 도구**
-   - 실시간 스톱워치를 제공하여 회의 진행 지원.
-   - 효과음 및 배경음악으로 흥미와 집중력을 유도.
-   - 그룹 통화 기능으로 원활한 의사소통 가능.
-
-4. **자동화된 문서화 시스템**
-   - AI 기반으로 회의 내용을 자동 요약.
-   - Markdown 형식 문서를 자동 생성.
-   - 프로젝트 히스토리 관리.
-
----
-
-### 3. **목표**
 본 프로젝트는 **팀 프로젝트를 위한 아이디어 및 설계 가이드라인 제공 플랫폼** 개발을 통해 다음을 달성하는 것을 목표로 합니다:
 
 - **프로젝트 기획 프로세스의 표준화**
@@ -100,38 +28,38 @@ Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선
   - AI를 활용한 회의 내용 요약 및 관리.
   - 표준화된 Markdown 문서 자동 생성.
 
----
 
-### 4. **Puzzle의 역할**
-Puzzle은 프로젝트 기획 단계에서 발생하는 다양한 문제를 해결하고 팀워크를 강화할 수 있는 플랫폼으로, 팀원 모두가 프로젝트의 전 과정을 효과적으로 협력하고 관리할 수 있도록 설계되었습니다.
+## 👥 Project : Puzzle Team : Spread
+|FE | FE | BE |
+| :---: | :---: | :---: |
+| 김태호 | 김대성 | 김선우 |
+|  <img width="130px" src="https://avatars.githubusercontent.com/u/126559845?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/131854855?v=4" /> |  <img width="130px" src="https://avatars.githubusercontent.com/u/114386406?v=4" /> |
+| 한림대학교 | 한림대학교 | 한림대학교|
+| 빅데이터전공 3학년 | 콘텐츠IT전공 4학년 | 빅데이터 3학년|
+| [@low](https://github.com/ho8ae)|[@丸内大成](https://github.com/KimMaru10)|[@kimxxunu](https://github.com/Kimxxunu)|
 
-# 프로젝트 기능 소개
+## Tech Stacks
+
+| Spread Team | 📚 Tech Stacks |
+|:--:|:--:|
+| Collaboration Tools|``React`` ``Next`` ``Zustand`` ``Axios``|
+
+## [FronteEnd Repo](#)
+
+| Front-End Team | 📚 Tech Stacks |
+|:--:|:--:|
+| Collaboration Tools| ``Notion``|
+
+
+## [BackEnd Repo](#)
+| Back-End Team | 📚 Tech Stacks |
+|:--:|:--:|
+| Collaboration Tools|``P``|
+
+
+
+## 프로젝트 기능 소개
 ### 주요 기능
-### 1. **구조화된 프로젝트 기획 프로세스**
-- 10단계로 구성된 프로젝트 기획 가이드라인 제공
-- 단계별 가이드 및 도구 지원
-- 투표 기반 단계 전환 기능
-
-### 2. **실시간 협업 도구**
-- Liveblocks 기반의 동시 편집 지원
-- 실시간 텍스트 작성 및 음성 공유
-- 공유 타이머 및 배경음악 기능
-
-### 3. **효율적인 문서화**
-- AI를 활용한 회의 내용 요약
-- 자동 Markdown 문서 생성
-- 프로젝트 히스토리 체계적 관리
-
-### 4. **사용자 친화적 UI/UX**
-- 직관적인 디자인과 부드러운 애니메이션
-- 물리엔진 기반 인터랙티브 랜딩 페이지
-- 프로세스 진행을 돕는 대시보드 및 프로세스 바 제공
-
-### 5. **통합된 팀 관리**
-- 팀원 초대 및 참여 현황 실시간 모니터링
-- 단계별 진행률 시각화
-- 즐겨찾기 기능으로 보드 관리 간소화
-
 
 ### Common Layout
 | 라이브 커서 | 투표 | 프로세스 바 | 
@@ -148,11 +76,10 @@ Puzzle은 프로젝트 기획 단계에서 발생하는 다양한 문제를 해�
 | ![사운드 블럭](https://github.com/user-attachments/assets/f0eeb171-8dd9-47ad-8317-42b3114ad714) | ![그룹콜](https://github.com/user-attachments/assets/0aef2ad8-303a-4ee3-951f-f3978f704ceb) | ![툴바](https://github.com/user-attachments/assets/116859de-d59a-419a-aa1b-50db88248900)
 
 
-# 프로젝트 단계 소개
+## 프로세스 10단계 소개
 
 Puzzle은 체계적인 프로젝트 기획을 위해 아래와 같은 **10단계 프로세스**를 제공합니다. 각 단계는 명확한 목표와 도구를 지원하며, 모든 팀원이 동의해야 다음 단계로 넘어갈 수 있도록 설계되었습니다.
 
----
 
 ### 1. **아이스 브레이킹**
 - 팀원 간 친밀도를 높이고 팀 리더(호스트)를 결정하는 단계입니다.

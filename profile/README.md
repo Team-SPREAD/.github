@@ -60,8 +60,6 @@
 
 ## 6. 프로젝트 Workflows
 
-### 전체 아키텍쳐
-![전체 아키텍쳐_v2](https://github.com/user-attachments/assets/0f9c7bc1-1883-4e5b-9ba5-ade763aa78d5)
 
 ### 주요 프로세스
 | 실시간 통신 프로세스 | 데이터 분석 프로세스 | 
@@ -77,3 +75,8 @@
 
 
 ## 8. 프로젝트 전체 아키텍쳐
+
+### 전체 아키텍쳐
+![전체 아키텍쳐_v2](https://github.com/user-attachments/assets/0f9c7bc1-1883-4e5b-9ba5-ade763aa78d5)
+
+

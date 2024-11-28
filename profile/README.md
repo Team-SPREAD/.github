@@ -1,7 +1,8 @@
 > [2024-2 한림대학교 소프트웨어캡스톤디자인]
 ![image](https://github.com/user-attachments/assets/a66fec23-bcfe-480c-abf2-5e0bd5836f15)
 
-
+### 배포URL
+https://spread-puzzle.io/
 
 ## 🥕Project : Puzzle Team : Spread
 |FE | FE | BE |
@@ -275,5 +276,3 @@ Puzzle은 체계적인 프로젝트 기획을 위해 아래와 같은 **10단계
 
 ### 아래의 이미지를 클릭하면 시연 영상을 확일 할 수 있습니다. 
 [![Video Label](http://img.youtube.com/vi/YrecgU2v1b8/0.jpg)](https://youtu.be/YrecgU2v1b8)
-
-

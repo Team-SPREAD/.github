@@ -1,15 +1,9 @@
+## 🧩 Puzzle - 프로젝트 기획 및 협업 플랫폼
 > [2024-2 한림대학교 소프트웨어캡스톤디자인]
 ![image](https://github.com/user-attachments/assets/a66fec23-bcfe-480c-abf2-5e0bd5836f15)
 
 ### 🔗 배포 링크
 https://spread-puzzle.io/
-
-
-
-
-## 🧩 Puzzle - 프로젝트 기획 및 협업 플랫폼
-![퍼즐](https://github.com/user-attachments/assets/f530109b-fe9c-42cd-9c5b-8a45ff6b923b)
-
 
 ## 🚀 프로젝트 소개
 Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선하는 협업 플랫폼입니다. 체계적인 가이드라인과 실시간 협업 도구를 통해 프로젝트 관리의 새로운 패러다임을 제시합니다.
@@ -38,23 +32,19 @@ Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선
 | 빅데이터전공 3학년 | 콘텐츠IT전공 4학년 | 빅데이터 3학년|
 | [@low](https://github.com/ho8ae)|[@丸内大成](https://github.com/KimMaru10)|[@kimxxunu](https://github.com/Kimxxunu)|
 
-## Tech Stacks
+## 📚 Tech Stacks
 
-| Spread Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools|``React`` ``Next`` ``Zustand`` ``Axios``|
 
 ## [FronteEnd Repo](#)
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+ <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 
-| Front-End Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools| ``Notion``|
 
 
 ## [BackEnd Repo](#)
-| Back-End Team | 📚 Tech Stacks |
-|:--:|:--:|
-| Collaboration Tools|``P``|
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"><img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=purple">
+
 
 
 

@@ -23,7 +23,7 @@ Puzzle은 팀 프로젝트의 기획 및 설계 과정을 혁신적으로 개선
   - 표준화된 Markdown 문서 자동 생성.
 
 
-## 👥 Project : Puzzle Team : Spread
+## 👥 Team : Spread
 |FE | FE | BE |
 | :---: | :---: | :---: |
 | 김태호 | 김대성 | 김선우 |
